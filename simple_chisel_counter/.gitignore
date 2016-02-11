@@ -8,11 +8,11 @@ syntax: glob
 *.old
 
 # eclipse conf file
-.settings
-.classpath
-.project
-.manager
-.scala_dependencies
+#.settings
+#.classpath
+#.project
+#.manager
+#.scala_dependencies
 
 # idea
 .idea
